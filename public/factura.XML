@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>0401202101179256701700120010020000083221234567814</numeroAutorizacion>
+  <fechaAutorizacion class="fechaAutorizacion">04/01/2021 12:30:15.000</fechaAutorizacion>
+  <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.0.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>INTERNATIONAL LOGISTIC CORP ILC CA</razonSocial>
+		<nombreComercial>ILC</nombreComercial>
+		<ruc>1792567017001</ruc>
+		<claveAcceso>0401202101179256701700120010020000083221234567814</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>002</ptoEmi>
+		<secuencial>000008322</secuencial>
+		<dirMatriz>AV PORTUGAL 585 INTERSECCION AV SEIS DE DICIEMBRE EDIFICIO COLINAS BELLOMONTE PISO 0 OFICINA 12</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>04/01/2021</fechaEmision>
+		<dirEstablecimiento>AV PORTUGAL 585 INTERSECCION AV SEIS DE DICIEMBRE EDIFICIO COLINAS BELLOMONTE PISO 0 OFICINA 12</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>EMPRESA COMERCIAL VELA LEIVA EMCOVELE</razonSocialComprador>
+		<identificacionComprador>1791882490001</identificacionComprador>
+		<direccionComprador>CHEDIAK N72A E53-09 Y AV. ELOY ALFARO</direccionComprador>
+		<totalSinImpuestos>720.54</totalSinImpuestos>
+		<totalDescuento>0.00</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<baseImponible>720.54</baseImponible>
+				<tarifa>12.00</tarifa>
+				<valor>86.46</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>807.00</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>807.00</total>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>10</codigoPrincipal>
+			<codigoAuxiliar>NO</codigoAuxiliar>
+			<descripcion>COLLECT FEE</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>100.240000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>100.24</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>100.24</baseImponible>
+					<valor>12.03</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>157</codigoPrincipal>
+			<codigoAuxiliar>NO</codigoAuxiliar>
+			<descripcion>DOCUMENTOS</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>55.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>55.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>55.00</baseImponible>
+					<valor>6.60</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>1837</codigoPrincipal>
+			<codigoAuxiliar>NO</codigoAuxiliar>
+			<descripcion>SERVICIOS LOGISTICOS</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>388.800000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>388.80</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>388.80</baseImponible>
+					<valor>46.66</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>223</codigoPrincipal>
+			<codigoAuxiliar>NO</codigoAuxiliar>
+			<descripcion>PORTUARIOS</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>121.500000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>121.50</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>121.50</baseImponible>
+					<valor>14.58</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+		<detalle>
+			<codigoPrincipal>8</codigoPrincipal>
+			<codigoAuxiliar>NO</codigoAuxiliar>
+			<descripcion>GESTION ADMINISTRATIVA</descripcion>
+			<cantidad>1.000000</cantidad>
+			<precioUnitario>55.000000</precioUnitario>
+			<descuento>0.00</descuento>
+			<precioTotalSinImpuesto>55.00</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>55.00</baseImponible>
+					<valor>6.60</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="Agente de Retención: Resolución">
+Nro.NAC.DNCRASC 20-00000001		</campoAdicional>
+		<campoAdicional nombre="Mail.:">
+aespinoza@emcovele.com		</campoAdicional>
+		<campoAdicional nombre="PEDIDO.:">
+2020-00826		</campoAdicional>
+		<campoAdicional nombre="PESO.:">
+2597.700000		</campoAdicional>
+		<campoAdicional nombre="CANTIDAD.:">
+8		</campoAdicional>
+		<campoAdicional nombre="REFERENCIA.:">
+IND451		</campoAdicional>
+	</infoAdicional>
+<ds:Signature Id="Signature586618" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo524323">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID917832" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature586618-SignedProperties980996">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VdY1XRBMEyOpUPCV2YX8+Iid9PY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1474189">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QtQ5gn368bSFouCjwLByfahyipg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-875854" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pO1h6Yi5cT+veRyhGua+5vF+vy4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue143698">
+mFwhjCPDLU9lQ0dZNnQSfzHJ0Q2M75PFxOFP05964D8fY3vkEsnPRxJFL2mr2z6JpOmrId30wDsH
+dssc6grKORRV4PXXI2ayLuyimfxBBkaiSW/cROFoStVMifpW4YpLXQVHGyGN3spo4S5X6ZhfPBBP
+RzlcQmSGZ3w+gDwmF2yjSttBhEEzjiIbuFfZuBr1f7OfOZOr8+MEaQdSiLL/2ble3tGwgl2c80EN
+FqlUGDXJbAqt4Ee1F4XMUt7e04D4Z1DTgfoJhO3FT9Cuql4l3iQk5GXeZIWAv2RtbmNqlLpESlIG
+5roiCsub12GcYsbi2euAF+XQxI5e4HCygJ6Y6g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1474189">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJwzCCCKugAwIBAgIEVNatujANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xOTA4MDUyMDMzNDVaFw0yMTA4MDUyMTAzNDVaMIGdMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xPzATBgNVBAUTDDA1MDgxOTE1MzcyMjAoBgNVBAMT
+IUFMRVhBTkRFUiBOSUNPTEFTIFBBQ0hFQ08gSklNRU5FWjCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBALg7D7r7O/emcEm/ZLO+Dwl/RIpgupgyTMVyMFOorfvPzUtoUKG/50lILZzC7saE
+brvu9+kPFTKfIpQdXm9k57NxDPaddu6EuqSbr9iwz17qkF+KEeDuKa9SxE8Fh2+nE5zPqKP20EI1
+8uNRU7zQtqOP+eTl01cRyXyNzYTMz1W1CqYPzrCuNmxxbo4uuqfF87xFZPaCc29ukgezckDn17Yo
+4WhJjvzfUSLKqjwW4XSX1cVsx3PxHMyaCe59dXSQJvQJkJQPxoC2ZmeQF4d8KFcrBhPPQVyinBcf
+v2xYDxKDtpKMdrAYkIrGZub07v/jvH2ht2IB86RBVFJVwvwO7nMCAwEAAaOCBhEwggYNMAsGA1Ud
+DwQEAwIF4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcwGA1UdIASBxDCBwTBA
+BgorBgEEAYKmcgIJMDIwMAYIKwYBBQUHAgIwJBoiQ2VydGlmaWNhZG8gZGUgUmVwcmVzZW50YW50
+ZSBMZWdhbDB9BgorBgEEAYKmcgIDMG8wbQYIKwYBBQUHAgEWYWh0dHBzOi8vd3d3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvbGV5ZXNfbm9ybWF0aXZhcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVw
+cmVzZW50YW50ZSBMZWdhbC5wZGYwNAYKKwYBBAGCpnIDCgQmEyRJTlRFUk5BVElPTkFMIExPR0lT
+VElDIENPUlAgSUxDIEMuQS4wHQYKKwYBBAGCpnIDCwQPEw0xNzkyNTY3MDE3MDAxMBoGCisGAQQB
+gqZyAwEEDBMKMTcxNDEyNzIyMDAhBgorBgEEAYKmcgMCBBMTEUFMRVhBTkRFUiBOSUNPTEFTMBcG
+CisGAQQBgqZyAwMECRMHUEFDSEVDTzAXBgorBgEEAYKmcgMEBAkTB0pJTUVORVowHwYKKwYBBAGC
+pnIDBQQREw9HRVJFTlRFIEdFTkVSQUwwOAYKKwYBBAGCpnIDBwQqEyhBVi4gUE9SVFVHQUwgNTg1
+IFkgQVYuIFNFSVMgREUgRElDSUVNQlJFMBsGCisGAQQBgqZyAwgEDRMLNTkzMjYwMzAzMTcwFQYK
+KwYBBAGCpnIDCQQHEwVRVUlUTzAXBgorBgEEAYKmcgMMBAkTB0VDVUFET1IwHwYKKwYBBAGCpnID
+IAQREw8wMDIwMDEwMDAwMzc3MjUwEwYKKwYBBAGCpnIDIQQFEwNQRlgwHgYDVR0RBBcwFYETbnBh
+Y2hlY29AaWxjLmNvbS5lYzCCAnsGA1UdHwSCAnIwggJuMIICaqCCAmagggJihj1odHRwOi8vb2Nz
+cGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwhoHVbGRh
+cDovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL2NuPUNSTDQ3NSxjbj1BVVRPUklEQUQlMjBE
+RSUyMENFUlRJRklDQUNJT04lMjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURBRCUyMERF
+JTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04sbz1TRUNVUklUWSUyMERBVEElMjBT
+LkEuLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhoGeaHR0cHM6Ly9kaXJlY3Qu
+c2VjdXJpdHlkYXRhLm5ldC5lYy9+Y3JsL2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9uX3N1Yl9z
+ZWN1cml0eV9kYXRhX2VudGlkYWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lvbl9jdXJp
+dHlfZGF0YV9zLmEuX2NfZWNfY3JsZmlsZS5jcmykgacwgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQK
+ExJTRUNVUklUWSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjE1MDMGA1UEAxMsQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCIFNF
+Q1VSSVRZIERBVEExDzANBgNVBAMTBkNSTDQ3NTArBgNVHRAEJDAigA8yMDE5MDgwNTIwMzM0NVqB
+DzIwMjEwODA1MjEwMzQ1WjAfBgNVHSMEGDAWgBT3L0zgdedio3iWWwa2LnE7zGw/kDAdBgNVHQ4E
+FgQUh5PLi/cQqah755sR0NM9L5p6uzEwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4x
+AwIDqDANBgkqhkiG9w0BAQsFAAOCAQEAJtZPt3W3CufHwKZXgM9qI56tIOTFtpiD62A4VCluQ67F
+Hqv4H3LtkAfjV/iujX85PCGl7TwYejeV8qpVJZHP8vtIyA3WZwZ5ACVaIOJbLz3iluQ2ASXm3lWq
+YDBncVUFswXTIjLUX3CNzcCNldfYTXFWlvaGKZkUP3Weee2haxVD11eXrtx2aI/NwodwIq5T9aiS
+uTcOw0B/tB2xWO8p5kbc8KIUBzvxvpSdVZlQ6NMPB4f17rfH9MGXDz3VaMWRlPfs4WhpNg0QG7Fv
+vzloJ+pzOKGgyrwXesBPuSE2MZoNuXx+1wWHiJs1Ey+aMxsmsPR5VAfQoVXpC0qB4Oa7sg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uDsPuvs796ZwSb9ks74PCX9EimC6mDJMxXIwU6it+8/NS2hQob/nSUgtnMLuxoRuu+736Q8VMp8i
+lB1eb2Tns3EM9p127oS6pJuv2LDPXuqQX4oR4O4pr1LETwWHb6cTnM+oo/bQQjXy41FTvNC2o4/5
+5OXTVxHJfI3NhMzPVbUKpg/OsK42bHFuji66p8XzvEVk9oJzb26SB7NyQOfXtijhaEmO/N9RIsqq
+PBbhdJfVxWzHc/EczJoJ7n11dJAm9AmQlA/GgLZmZ5AXh3woVysGE89BXKKcFx+/bFgPEoO2kox2
+sBiQisZm5vTu/+O8faG3YgHzpEFUUlXC/A7ucw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature586618-Object782580"><etsi:QualifyingProperties Target="#Signature586618"><etsi:SignedProperties Id="Signature586618-SignedProperties980996"><etsi:SignedSignatureProperties><etsi:SigningTime>2021-01-04T12:30:07-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>uGrxKya2ZzXdhaXuwVc9ocfe5Og=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1423355322</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-875854"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+  <mensajes/>
+</autorizacion>
